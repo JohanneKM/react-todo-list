@@ -1,0 +1,13 @@
+.task-list {
+  border: red solid 1px;
+  display: flex;
+}
+
+.container {
+  border: blue solid 1px;
+  margin-left: 500px;
+}
+
+.to-cross {
+  text-decoration: line-through;
+}
